@@ -1,2 +1,2 @@
-# DATA310
- Repository for DATA 310 Summer 2021
+# DATA 310
+ My repository for DATA 310 Summer 2021
