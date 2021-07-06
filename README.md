@@ -1,2 +1,23 @@
-# DATA 310
- My repository for DATA 310 Summer 2021
+# Index Machine Learning 
+
+## Informal Exercies
+- Module 1
+    - [Tuesday's Response](tuesday1.md)
+- Module 2
+
+- Module 3
+
+- Module 4
+
+- Module 5
+
+## Projects
+- Project 1
+
+- Project 2
+
+- Project 3
+
+- Project 4
+
+- Project 5
