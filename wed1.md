@@ -1,7 +1,9 @@
 ## 7/7/2021 Response 
 
 1. "From the Preprocess the data section of the script, modify the training image to produce three new images"
-   - Response
+   - [Image 1](images/pre_image_1.png)
+   - [Image 2](images/pre_image_2.png)
+   - [Image 3](images/pre_image_3.png)
 2. "Under the Make predictions section, present the array of predictions for an image from the test set other than the one given in the example script. What does this array represent?"
    - The array represents the probabilities given by the model that the image is a certain classification. For example, index 0 of the presented array is the probability that the image is the object represented by index 0 of class_names, in this case a "t-shirt/top".
 3. "How were the Softmax() and argmax() functions applied?"
