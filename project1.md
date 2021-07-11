@@ -11,5 +11,4 @@
 4. Which feature appears to be the most significant predictor?
     - The most important feature for prediction appears to be the living area. This makes intuitive sense considering larger houses would most likely have more rooms and bathrooms, meaning those variables are slightly accounted for by the living area feature. As well, larger houses would be considered more expensive typically. Furthermore, removing living area from the input resulted in a much higher loss function than when bedroom and bathroom counts were removed. 
    
-Here is the chart of the loss function:
    ![img_1.png](img_1.png)
