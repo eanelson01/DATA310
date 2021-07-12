@@ -5,7 +5,6 @@
     - [Tuesday's Response](tuesday1.md)
     - [Wednsday's Response](wed1.md)
     - [Thursday's Response](images/thurs1.md)
-    - [Project 1](project1.md)
 - Module 2
 
 - Module 3
@@ -15,7 +14,7 @@
 - Module 5
 
 ## Projects
-- Project 1
+- [Project 1](project1.md)
 
 - Project 2
 
