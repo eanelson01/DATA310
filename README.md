@@ -7,7 +7,7 @@
     - [Thursday's Response](images/thurs1.md)
     - [Project 1](project1.md)
 - Module 2
-
+  - [Monday's Response](monday2.md)
 - Module 3
 
 - Module 4
