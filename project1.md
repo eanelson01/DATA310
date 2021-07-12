@@ -1,4 +1,4 @@
-## Project 1 Response
+## Project 1 Response: Charlottesville, VA
 
 1. How did your model fare?
     - The model I created seems to be relatively good at predicting house prices with the given variables. The MSE of the model is 1.87. The predictions all appear to follow an upward trend. When I first tried the model, it was much worse. Outlier houses in the millions made it so that the predictions would sometimes be negative. By removing these outlier houses, the trend is much clearer and more accurate, boding better results. They are still not fully accurate but seem to be somewhere within $100,000 of the real price which I would consider a success given my initial results. Furthermore, I would have done a train/test split but I feared this would decrease the training data too much, considering my sample size was already around 120 by removing outliers.  
