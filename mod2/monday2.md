@@ -6,7 +6,7 @@
     - DNN Model loss function graph:
         ![img_3.png](../img_3.png)
 2. Adding additional features and analyzing the effect:
-    - In addition to the original features, I added curb-weight, wheel-base, length, width, height, bore, stroke, compression, peak-rpm, and city-mpg. The addition of these features resulted in a better loss function for both models. Interestingly enough, the linear model had the better loss function than the DNN. The linear model had a final loss value of 1.05 while the DNN model finished with a loss value of 1.6. 
+    - In addition to the original features, I added wheel-base, length, width, height, bore, stroke, compression, peak-rpm, and city-mpg. The addition of these features resulted in a better loss function for both models. Interestingly enough, the linear model had the better loss function than the DNN. The linear model had a final loss value of 1.05 while the DNN model finished with a loss value of 1.6. 
     - New Linear Model Loss Graph:
       ![img_5.png](../img_5.png)
     - New DNN Model Loss Graph:
