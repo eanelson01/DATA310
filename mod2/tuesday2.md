@@ -16,13 +16,13 @@
 
 1. "In this exercise you manually applied a 3x3 array as a filter to an image of two people ascending an outdoor staircase. Modify the existing filter and if needed the associated weight in order to apply your new filters to the image 3 times. Plot each result, upload them to your response, and describe how each filter transformed the existing image as it convolved through the original array and reduced the object size. What are you functionally accomplishing as you apply the filter to your original array? Why is the application of a convolving filter to an image useful for computer vision?"
    - The 1st filter was identifying horizontal lines. This means that it was convolving over the image and able to detect horizontal lines in the image and highight any. The second filter detects vertical lines in the same way that the first did for horizontal lines. Lastly, the third filter detects downward diagonal lines. This is because the 3x3 array has 1s in a di. Functionally applying an array filter multiplies its values with those in the picture's pixel values for each NxN section of the matrix, in this case 3x3. It then sums the value and puts them in a new, smaller matrix. This makes it so that the features around the desired object for detection are supressed and the object itself is left on its own. This convolving filter is helpful to computer vision because it is able to identify certain objects. The different convolving layers can add these objects together to make the full object that it is detecting.  
-   - 1st Filter
+   - 1st Filter [ [-1, -2, -1], [0, 0, 0], [1, 2, 1]]
    
    ![img.png](1stfilter.png)
-   - 2nd Filter
+   - 2nd Filter [ [-1, 0, 1], [-2, 0, 2], [-1, 0, 1]]
    
    ![img.png](2ndfilter.png)
-   - 3rd Filter
+   - 3rd Filter [[0,-1,-1],[1,0,-1],[1,1,0]]
    
    ![img.png](3rdfilter.png)
 
