@@ -8,6 +8,7 @@
 - Module 2
   - [Monday's Response](mod2/monday2.md)
   - [Tuesday/Wednesday Response](mod2/tuesday2.md)
+  - [Thursday Response](mod2/thursday2.md)
 - Module 3
 
 - Module 4
