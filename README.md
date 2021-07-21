@@ -11,6 +11,7 @@
   - [Thursday Response](mod2/thursday2.md)
 - Module 3
   - [Monday's Response](mod3/monday3.md)
+  - [Tuesday's Response](mod3/tuesday3.md)
 - Module 4
 
 - Module 5
