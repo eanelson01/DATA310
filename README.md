@@ -13,6 +13,7 @@
   - [Monday's Response](mod3/monday3.md)
   - [Tuesday's Response](mod3/tuesday3.md)
   - [Wednsday's Respone](mod3/wednsday3.md)
+  - [Thursday's Response](mod3/thursday3.md)
 - Module 4
 
 - Module 5
