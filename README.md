@@ -23,7 +23,7 @@
 
 - Project 2
 
-- Project 3
+- [Project 3](mod3/project3.md)
 
 - Project 4
 
