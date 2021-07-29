@@ -15,7 +15,7 @@
   - [Wednsday's Respone](mod3/wednsday3.md)
   - [Thursday's Response](mod3/thursday3.md)
 - Module 4
-
+  - [Wednsday's Response](mod4/wednsday4.md)
 - Module 5
 
 ## Projects
