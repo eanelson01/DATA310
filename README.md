@@ -26,6 +26,6 @@
 
 - [Project 3](mod3/project3.md)
 
-- Project 4
+- [Project 4](mod4/project4.md)
 
 - Project 5
