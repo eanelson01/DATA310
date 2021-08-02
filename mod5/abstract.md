@@ -6,5 +6,8 @@
 
 Image:
 
+![Sample Image](austin1_image_slice07.tif)
 
 Mask:
+
+![Sample Mask](austin1_mask_slice07.tif)
