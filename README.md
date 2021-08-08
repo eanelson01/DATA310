@@ -29,6 +29,6 @@
 - [Project 4](mod4/project4.md)
 
 - Project 5
-  - [Abstract](mod5/abstract.md)
+  - [Abstract and Presentation Link](mod5/abstract.md)
   - [Description of Data and Preliminary Model](mod5/data_description.md)
   - [Presentation on Final Project](data310_final_video.mp4)
